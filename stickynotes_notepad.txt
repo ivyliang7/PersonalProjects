@@ -1,0 +1,29 @@
+﻿<HTML>
+
+<HEAD>
+
+<TITLE> Reminders </TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="#e6ffff">
+
+<p style=font-size:25px> 
+<u>
+Reminders 
+</u>
+</p>
+
+<p style=font-size:20px>
+<b>
+June 26, 2019
+</b>
+</p>
+
+<ul>
+  <li>Appeal period for minor variances are 20 days not 10 days</li>
+</ul>
+
+</BODY>
+
+</HTML>
